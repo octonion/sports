@@ -1,0 +1,14 @@
+       candidate best worst average in 190 tied orderings
+        Anderson    1    4    1.432 +- 0.601
+          Horton    1    5    2.153 +- 1.002
+           Kelly    2    5    2.847 +- 0.690
+           Banks    4    6    4.563 +- 0.706
+         O'Brien    1    9    5.132 +- 1.376
+          Carter    1   11    5.363 +- 1.798
+         Schmidt    5    8    6.837 +- 0.688
+            Rice    6   10    8.742 +- 1.062
+            Wang    8   11    9.163 +- 0.935
+           Meyer    7   13    9.868 +- 1.849
+          Garcia    8   11   10.337 +- 0.913
+             Lee   10   12   11.716 +- 0.536
+           Price   12   13   12.847 +- 0.360
